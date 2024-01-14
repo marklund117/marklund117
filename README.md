@@ -1,4 +1,4 @@
-### Hi there 👋
+### Currently studying web design and development @ UVU
 
 <!--
 **marklund117/marklund117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
